@@ -10,9 +10,9 @@ They act as the primary interpreter of disturbances within the **[Concordance](.
 
 # Role
 
-The Planewright does not command Arbiters in the traditional sense.
+The Planewright does not command **[Arbiters](arbiters.md)** in the traditional sense.
 
-Instead, they observe large-scale equilibrium patterns across the **[ley-line lattice](../ley_lines.md)** and help guide Arbiter responses.
+Instead, they observe large-scale equilibrium patterns across the **[ley-line lattice](../ley_lines.md)** and guide Arbiter responses.
 
 Responsibilities include:
 
@@ -35,9 +35,21 @@ Over time, their presence subtly reshapes its architecture.
 
 # Succession
 
-A Planewright is replaced only when the current one is destroyed or relinquishes the role.
+At any given time, only one Planewright may exist.
 
-The **[Concordance](../concordance.md)** selects a successor from among the existing **[Arbiters](arbiters.md)**.
+When the current Planewright nears the end of their term, the **[ley-line lattice](../ley_lines.md)** begins revealing the possibility of a successor through the Atlas.
+
+The Atlas does not choose the next Planewright outright.  
+It illuminates a mortal individual whose mind, nature, and life pattern suggest the capacity to bear the role.
+
+That individual is then observed by the **[Arbiters](arbiters.md)** over time.
+
+If the potential successor proves suitable, they are brought into the **[Concordance](../concordance.md)** and undergo the transformation required to become the next Planewright.
+
+This process is distinct from ordinary Arbiter elevation.
+
+The first Planewright, **Loughan Bagaro**, was a singular exception.  
+Because no Planewright existed before him, he was chosen directly by the Concordance itself.
 
 ---
 
