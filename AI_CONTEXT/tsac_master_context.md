@@ -6,7 +6,7 @@
 
 ## Project Identity
 
-- **Project:** BBEG: The Shade and Crown (tSAC)
+- **Project:** BBEG: The Silent Accord Chronicles (tSAC)
 - **Type:** Dark fantasy worldbuilding / tabletop RPG
 - **Status:** Active development
 - **Canon Authority:** Human collaborator has final say on all canon
@@ -24,7 +24,7 @@ The central tension is **the Inversion**: a slow corruption of the light/shadow 
 ## Core Cast
 
 - **Solas Aghrian** — A mortal who carries an ancient spiritlock and is drawn into the conflict between Protectors.
-- **The Betrayer** — A fallen Protector whose betrayal set the Inversion in motion. Motivations are complex and not purely evil.
+- **The Betrayer** — A fallen Planewright whose unintentional betrayal set the Inversion in motion. Motivations are complex and not purely evil.
 - **Loughan Begarrow** — An operative in the mortal spy network, pragmatic and loyal to survival over ideology.
 
 ---
@@ -36,8 +36,8 @@ The central tension is **the Inversion**: a slow corruption of the light/shadow 
 | Spiritlock | The binding of a soul to a location, object, or person |
 | Shadebound | Mortals who carry a fragment of Shadewoven within their soul |
 | Lost Souls | Souls severed from both planes, drifting without anchor |
-| The Veil | The membrane between the Living World and the planes |
-| Veil Guard | The faction charged with maintaining the Veil |
+| The Concordance | The membrane between the Living World and the planes |
+| Arbiters of the Concordance | The faction charged with maintaining the Veil |
 
 ---
 
