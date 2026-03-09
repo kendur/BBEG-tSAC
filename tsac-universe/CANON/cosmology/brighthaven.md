@@ -6,7 +6,7 @@ The realm of light, structure, and ordered existence.
 
 ## Nature
 
-Brighthaven is the cosmic plane associated with clarity, permanence, and form. It is the source of what mortals perceive as divine light — not warmth or comfort necessarily, but the principle of things having definite shape, definite meaning, and enduring consequence.
+Brighthaven is an ideological plane formed from the spiritual resonance of the Living World. It is not a physical dimension existing independently of mortal life — it is a philosophical state of existence, crystallized from the spiritual energy that living beings generate through acts of definition, permanence, and consequence. It represents the principle of things having definite shape, definite meaning, and enduring record.
 
 In Brighthaven, nothing is forgotten. Every action taken in the Living World leaves an imprint here. This makes it a realm of absolute record — and, in its extreme, a realm of absolute judgment.
 
@@ -41,7 +41,7 @@ Light bleeds into the Living World as inspiration, pattern-recognition, moral ce
 
 ## The Inversion Threat
 
-The Inversion risks flooding Brighthaven with shadow energy, which would destabilize the absolute-record nature of the plane. If Brighthaven becomes uncertain, the consequences for mortal memory, soul structure, and the nature of consequence itself could be catastrophic.
+The Inversion began when a Protector commander attempted to force Brighthaven to triumph over Shadewoven. The intent was to elevate the principle of light, structure, and permanence to dominance — but the attempt did not strengthen Brighthaven. Instead, it corrupted Shadewoven, introducing suffering, death, and torment into the metaphysical structure of reality. The backlash now threatens to destabilize Brighthaven itself, flooding it with the corrupted shadow energy that the original act set loose.
 
 ---
 

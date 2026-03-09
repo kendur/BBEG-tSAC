@@ -10,11 +10,11 @@ The tSAC cosmos is structured around three fundamental realms:
 
 | Realm | Nature | Governing Principle |
 |-------|--------|---------------------|
-| **Brighthaven** | The realm of light, structure, and ordered existence | Clarity, permanence, and form |
-| **Shadewoven** | The realm of shadow, memory, and dissolution | Potential, entropy, and the unformed |
-| **The Living World** | The mortal plane between the two | Change, growth, and consequence |
+| **Brighthaven** | An ideological plane of light, structure, and ordered existence | Clarity, permanence, and form |
+| **Shadewoven** | An ideological plane of shadow, memory, and dissolution | Potential, entropy, and the unformed |
+| **The Living World** | The mortal plane from which the other two emerge | Change, growth, and consequence |
 
-The Living World is not simply the midpoint between the other two — it is the active interface where light and shadow interact and transform each other. Life itself is the product of this interaction.
+Brighthaven and Shadewoven are not independent physical dimensions that the Living World sits between — they are ideological planes formed from the spiritual resonance of the Living World itself. They represent philosophical states of existence: ways of being that arise from how mortal life generates and expends spiritual energy. The Living World is the source and the anchor; the two planes are its metaphysical exhaust and expression.
 
 ---
 
@@ -30,7 +30,7 @@ The integrity of the Veil is the central concern of the Veil Guard faction.
 
 Brighthaven and Shadewoven are not in conflict by nature — they are complementary. The cosmos requires both. Excessive light produces rigidity and stasis; excessive shadow produces dissolution and amnesia. The balance between them allows life, change, and meaning.
 
-The **Inversion** is the name given to the current disruption of this balance, caused by the Betrayer's actions. It is a slow process of light and shadow crossing each other's threshold, threatening to collapse the distinction between realms.
+The **Inversion** is the name given to the current disruption of this balance. It was set in motion when one commander among the Protectors attempted to force Brighthaven to triumph — to make the principle of light, order, and permanence dominant over all. The attempt backfired: rather than elevating Brighthaven, it corrupted Shadewoven, introducing suffering, death, and torment into the metaphysical structure of reality. The Inversion is the ongoing consequence of that corruption, as light and shadow cross each other's threshold in ways they were never meant to.
 
 ---
 
