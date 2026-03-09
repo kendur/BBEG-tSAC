@@ -6,7 +6,7 @@ Semi-divine beings appointed to maintain the balance between Brighthaven, Shadew
 
 ## Nature
 
-The Protectors are not gods in the traditional sense — they are beings elevated from the cosmos itself to serve a specific function: the maintenance of the Veil and the balance between the planes. They are ancient, powerful, and partially bound by the covenant that created them.
+The Protectors are angel-adjacent guardians — beings whose nature and function are analogous to divine messengers or heavenly sentinels in mortal mythologies, though they predate and transcend those frameworks. They were elevated from the cosmos itself to serve a specific function: maintaining the Veil and preserving the balance between Brighthaven and Shadewoven. They are ancient, powerful, and partially bound by the covenant that created them.
 
 Each Protector has a primary alignment (light or shadow) but all are expected to serve the whole system, not their aligned plane alone.
 
@@ -36,13 +36,18 @@ The Betrayer's actions were a violation of this covenant, and the consequences o
 
 ---
 
-## The Betrayer's Impact
+## The Commander's Failure and the Corruption of Shadewoven
 
-The Betrayer did not simply break the covenant — they took actions that actively destabilized the Veil. The nature of those actions is a major plot mystery. What is known:
+The Inversion was not caused by a Protector acting out of malice toward the cosmos. It was caused by a commander among the Protectors who attempted to force Brighthaven to triumph — to make the principle of light, structure, and permanence dominant over Shadewoven and the forces of dissolution.
 
-- The Inversion began at the moment of the Betrayal
-- Other Protectors were unable or unwilling to immediately reverse the damage
-- The Betrayer still exists and acts in the world, though their goals are not straightforwardly destructive
+The attempt was unilateral, made without Protector consensus, and in direct violation of the covenant's prohibition on independent Veil alteration. More critically, it failed in the worst possible way: rather than elevating Brighthaven, the action corrupted Shadewoven, introducing suffering, death, and torment into the metaphysical structure of reality. The Inversion is the ongoing consequence of that corruption.
+
+The Betrayer's post-betrayal existence is shaped by operating outside their native metaphysical support structure — they carry the shadow-weave within them as a resource and a wound simultaneously.
+
+What remains unresolved in canon:
+- The specific nature of the commander's action
+- The stated justification the commander would give
+- Whether other Protectors knew it was coming or could have prevented it
 
 ---
 

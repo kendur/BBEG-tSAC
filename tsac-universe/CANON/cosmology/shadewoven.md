@@ -6,7 +6,7 @@ The realm of shadow, memory, and dissolution.
 
 ## Nature
 
-Shadewoven is the cosmic plane associated with potential, entropy, and the unformed. It is not darkness in the sense of evil — it is darkness in the sense of the space before definition, the silence before sound, the canvas before painting. It holds everything that has been forgotten, everything that might yet be, and everything that has dissolved back into potential.
+Shadewoven is an ideological plane formed from the spiritual resonance of the Living World. It is not a physical dimension existing independently of mortal life — it is a philosophical state of existence, arising from the spiritual energy that living beings generate through acts of forgetting, grieving, imagining, and dissolving. It is not darkness in the sense of evil — it is darkness in the sense of the space before definition, the silence before sound, the canvas before painting. It holds everything that has been forgotten, everything that might yet be, and everything that has dissolved back into potential.
 
 In Shadewoven, nothing is lost entirely. What fades from mortal memory does not disappear — it enters the shadow-weave and persists in a state of dissolved potential. This makes Shadewoven a realm of immense stored power, and immense danger.
 
@@ -41,9 +41,11 @@ Shadebound individuals — mortals carrying a fragment of the shadow-weave withi
 
 ---
 
-## The Inversion Threat
+## The Corruption
 
-The Inversion risks flooding Shadewoven with light energy, which would impose false structure on what is meant to remain fluid. An over-structured Shadewoven would freeze memory-wraiths into trapped forms and potentially prevent dissolved souls from completing their natural cycle.
+Shadewoven was not always as it is now. Its current state of instability and danger is a consequence of the Inversion: a Protector commander attempted to force Brighthaven to triumph over Shadewoven, believing that elevating the principle of light and order would improve the cosmos. The attempt did not succeed as intended. Instead of strengthening Brighthaven, it corrupted Shadewoven — introducing suffering, death, and torment into the metaphysical structure of reality. What had been a realm of neutral potential and dissolved memory became saturated with anguish that has no natural place in the shadow-weave.
+
+This corruption is the proximate cause of the Inversion. Where Shadewoven was once simply fluid and formless, it now carries an active wound. The memory-wraiths and lost souls that wander it are no longer simply incomplete — many are trapped in states of torment that the natural weave has no mechanism to process.
 
 ---
 
