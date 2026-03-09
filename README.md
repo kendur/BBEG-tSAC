@@ -46,11 +46,10 @@ This event produced a resonance wave across the planet and resulted in the birth
 
 ## Repository Structure
 
-
 ## Directory Structure
 
 ```
-tsac-universe/
+BBEG-tSAC/
 ├── README.md              — This file
 ├── INDEX.md               — Full index of all canon files
 │
@@ -69,11 +68,11 @@ tsac-universe/
 
 ## Usage
 
-- Use `AI_CONTEXT/tsac_master_context.md` as the primary context file when working with an AI model on this project.
-- See `AI_CONTEXT/how_to_use_this_repo.md` for full instructions.
-- Canon files in `CANON/` are treated as authoritative. Do not alter them without explicit approval.
-- `SCRATCHPAD/` is a working area — nothing there is canon until promoted.
+- Use [AI_CONTEXT/tsac_master_context.md](AI_CONTEXT/tsac_master_context.md) as the primary context file when working with an AI model on this project.
+- See [AI_CONTEXT/how_to_use_this_repo.md](AI_CONTEXT/how_to_use_this_repo.md) for full instructions.
+- Canon files in [CANON/](CANON/) are treated as authoritative. Do not alter them without explicit approval.
+- [SCRATCHPAD/](SCRATCHPAD/) is a working area — nothing there is canon until promoted.
 
 ## Contributing
 
-All canon additions must go through the standard review process. See `AI_CONTEXT/canon_rules.md` for the rules governing what becomes canon.
+All canon additions must go through the standard review process. See [AI_CONTEXT/canon_rules.md](AI_CONTEXT/canon_rules.md) for the rules governing what becomes canon.
