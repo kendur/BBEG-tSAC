@@ -2,11 +2,11 @@
 
 # The Silent Accord Chronicles (tSAC)
 
-TSAC is a science-fantasy worldbuilding framework centered on equilibrium between two cosmic forces: **Brighthaven** and **Shadewoven**.
+tSAC is a science-fantasy worldbuilding framework centered on equilibrium between two cosmic forces: **Brighthaven** and **Shadewoven**.
 
 The universe is regulated by a system called **The Concordance**, which maintains balance through a network of empowered agents known as **Arbiters**.
 
-This repository contains canonical lore, mechanics, and cosmological rules for the TSAC setting.
+This repository contains canonical lore, mechanics, and cosmological rules for the tSAC setting.
 
 The system is designed to support:
 
