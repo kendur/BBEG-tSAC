@@ -1,46 +1,40 @@
-# ai-context
+# tSAC Universe
 
-Portable, model-agnostic context profiles (YAML) for working across multiple AI models and modalities.
+**BBEG: The Shade and Crown** — a collaborative worldbuilding and tabletop RPG project.
 
-## How to use
+This repository contains all canonical lore, system rules, story arcs, and AI context files for the tSAC universe.
 
+## Overview
 
-These profiles are meant to be **pasted** into any stateless model to quickly align behavior.
-### 1) Pick a manifest (recommended)
-- `manifests/manifest_general.yaml` for everyday tasks
-- `manifests/manifest_work.yaml` for work/ops-heavy tasks
+The tSAC universe is a dark fantasy setting built around the tension between light and shadow, the nature of souls, and the consequences of betrayal at a cosmic scale. It blends original metaphysics with a living, reactive world shaped by the choices of mortals and protectors alike.
 
-Paste the manifest at the top of a new chat with a stateless model, then paste your task.
+## Directory Structure
 
-### 2) Or assemble manually (advanced)
-Paste:
-1. `core/00_global.yaml`
-2. a role file from `roles/`
-3. (optional) `core/99_handoff.yaml`
-4. your task prompt
+```
+tsac-universe/
+├── README.md              — This file
+├── INDEX.md               — Full index of all canon files
+│
+├── AI_CONTEXT/            — Context files for use with AI models
+├── CANON/                 — Official, locked worldbuilding canon
+│   ├── cosmology/         — The nature of the world and its planes
+│   ├── characters/        — Major characters and NPCs
+│   ├── metaphysics/       — Souls, spirit, and supernatural mechanics
+│   ├── factions/          — Organizations and power groups
+│   └── timelines/         — Historical and current-age events
+│
+├── SYSTEM/                — Game system rules and mechanics
+├── STORY/                 — Story arcs, outlines, and plot threads
+└── SCRATCHPAD/            — Unverified ideas and raw extractions
+```
 
-## Repo structure
+## Usage
 
+- Use `AI_CONTEXT/tsac_master_context.md` as the primary context file when working with an AI model on this project.
+- See `AI_CONTEXT/how_to_use_this_repo.md` for full instructions.
+- Canon files in `CANON/` are treated as authoritative. Do not alter them without explicit approval.
+- `SCRATCHPAD/` is a working area — nothing there is canon until promoted.
 
-- `projects/` project-specific constraints and defaults
-- `core/` invariants (tone, rules, output contract)
-- `roles/` task-role nuance (research/coding/ops/creative/vision/trainer-cap)
-- `manifests/` pre-composed bundles to paste quickly
-- `logs/` templates for tracking changes
+## Contributing
 
-## Versioning
-
-Use Semantic Versioning (MAJOR.MINOR.PATCH).
-- PATCH: wording/format tweaks
-- MINOR: add rules/sections
-- MAJOR: restructure philosophy or output contract
-
-## Security
-
-Do not put secrets, credentials, or sensitive personal logs in this repo.
-Treat it like configuration, not a diary.
-
-Last updated: 2026-01-21
-
-## Projects
-Project profiles live in `projects/` and are bundled via `manifests/manifest_<project_id>.yaml`.
+All canon additions must go through the standard review process. See `AI_CONTEXT/canon_rules.md` for the rules governing what becomes canon.
