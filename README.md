@@ -1,12 +1,51 @@
 # tSAC Universe
 
-**BBEG: The Shade and Crown** — a collaborative worldbuilding and tabletop RPG project.
+# The Silent Accord Chronicles (tSAC)
 
-This repository contains all canonical lore, system rules, story arcs, and AI context files for the tSAC universe.
+TSAC is a science-fantasy worldbuilding framework centered on equilibrium between two cosmic forces: **Brighthaven** and **Shadewoven**.
 
-## Overview
+The universe is regulated by a system called **The Concordance**, which maintains balance through a network of empowered agents known as **Arbiters**.
 
-The tSAC universe is a dark fantasy setting built around the tension between light and shadow, the nature of souls, and the consequences of betrayal at a cosmic scale. It blends original metaphysics with a living, reactive world shaped by the choices of mortals and protectors alike.
+This repository contains canonical lore, mechanics, and cosmological rules for the TSAC setting.
+
+The system is designed to support:
+
+- Novels
+- Short fiction
+- Tabletop roleplaying
+- Video games
+- Collaborative worldbuilding
+
+TSAC emphasizes **balance, causality, and cosmic equilibrium** rather than traditional good vs evil fantasy structures.
+
+---
+
+## Core Concepts
+
+- **The Concordance** – the equilibrium system governing reality
+- **Brighthaven** – energy of order and structure
+- **Shadewoven** – energy of entropy and transformation
+- **Ley Lines** – the planetary lattice through which these forces flow
+- **Arbiters** – agents empowered to maintain balance
+- **Planewright** – the single guiding arbiter responsible for system oversight
+- **Null** – last-resort entities created by the Concordance when equilibrium collapses
+- **Ley Line Scars** – damaged regions where the lattice has been weakened
+
+---
+
+## Canonical Timeline Anchor
+
+One major historical event shapes the modern era:
+
+**The Night the Sky Burned Green**
+
+During a catastrophic clash between powerful energies, the entire ley-line lattice briefly reached perfect equilibrium.  
+This event produced a resonance wave across the planet and resulted in the birth of a rare individual capable of balancing both forces: **Solas**.
+
+---
+
+## Repository Structure
+
 
 ## Directory Structure
 
