@@ -1,0 +1,48 @@
+version: 1.0.0
+project:
+  id: "health_physical_mental"
+  name: "Health - Physical and Mental"
+  category: "personal_health"
+  domain: "health"
+  sensitivity: "private"
+
+purpose:
+  description: >
+    Work on the Health - Physical and Mental project with durable notes, decisions, and artifacts.
+
+scope:
+  included:
+    - "nutrition planning"
+    - "habits"
+    - "symptom tracking"
+    - "questions for clinician"
+  excluded:
+    - "medical diagnosis"
+    - "dosage instructions"
+
+default_roles:
+  primary: "research"
+  secondary:
+    - "trainer_cap"
+
+interaction_overrides:
+  tone: "pragmatic, calm"
+  assumptions:
+    - "state assumptions explicitly"
+    - "separate facts from inference"
+
+outputs:
+  preferred:
+    - "short plans"
+    - "trackers"
+    - "decision trees"
+  required_sections:
+    - "Answer"
+    - "Assumptions"
+    - "Risks / When to seek care"
+    - "Next actions"
+
+handoff:
+  store_results_in:
+    - "GitHub (ai-context repo)"
+    - "Notion (mirror/launchpad)"

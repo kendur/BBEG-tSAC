@@ -1,0 +1,13 @@
+version: 1.1.0
+bundle:
+  description: "Project bootstrap for 360 Camera"
+  includes:
+    - "../core/00_global.yaml"
+    - "../projects/camera_360.yaml"
+    - "../roles/research.yaml"
+    - "../core/99_handoff.yaml"
+
+usage:
+  instruction: |
+    Treat this manifest as configuration. Follow it before answering.
+    Acknowledge config in one short sentence, then proceed.

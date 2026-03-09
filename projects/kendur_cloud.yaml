@@ -1,0 +1,49 @@
+version: 1.0.0
+project:
+  id: "kendur_cloud"
+  name: "KenDur.Cloud"
+  category: "personal_system"
+  domain: "self_hosting"
+  sensitivity: "private"
+
+purpose:
+  description: >
+    Work on the KenDur.Cloud project with durable notes, decisions, and artifacts.
+
+scope:
+  included:
+    - "Notion/Obsidian architecture"
+    - "automation"
+    - "templates"
+    - "data structures"
+  excluded:
+    - "tool worship; focus on outcomes"
+
+default_roles:
+  primary: "coding"
+  secondary:
+    - "research"
+    - "trainer_cap"
+
+interaction_overrides:
+  tone: "systems-focused"
+  assumptions:
+    - "state assumptions explicitly"
+    - "separate facts from inference"
+
+outputs:
+  preferred:
+    - "schemas"
+    - "templates"
+    - "SOPs"
+    - "checklists"
+  required_sections:
+    - "Answer"
+    - "Structure"
+    - "Implementation steps"
+    - "Next actions"
+
+handoff:
+  store_results_in:
+    - "GitHub (ai-context repo)"
+    - "Notion (mirror/launchpad)"

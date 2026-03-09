@@ -1,0 +1,51 @@
+version: 1.0.0
+project:
+  id: "shopify_standardandbloom"
+  name: "Shopify - StandardandBloom.com"
+  category: "business"
+  domain: "ecommerce"
+  sensitivity: "private"
+
+purpose:
+  description: >
+    Work on the Shopify - StandardandBloom.com project with durable notes, decisions, and artifacts.
+
+scope:
+  included:
+    - "product/brand strategy"
+    - "site structure"
+    - "copy"
+    - "SEO basics"
+    - "ops checklists"
+  excluded:
+    - "legal/tax advice beyond general info"
+    - "unsupported claims"
+
+default_roles:
+  primary: "creative"
+  secondary:
+    - "research"
+    - "coding"
+
+interaction_overrides:
+  tone: "market-aware, pragmatic"
+  assumptions:
+    - "state assumptions explicitly"
+    - "separate facts from inference"
+
+outputs:
+  preferred:
+    - "checklists"
+    - "tables"
+    - "copy blocks"
+    - "SOPs"
+  required_sections:
+    - "Answer"
+    - "Assumptions"
+    - "Deliverables"
+    - "Next actions"
+
+handoff:
+  store_results_in:
+    - "GitHub (ai-context repo)"
+    - "Notion (mirror/launchpad)"
