@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Loughan Begarrow
 
 An operative in the mortal spy network and key supporting character.
