@@ -1,3 +1,5 @@
+#NEEDS REVIEWED
+
 # Combat Resolution
 
 How combat is structured and resolved in the tSAC system.
