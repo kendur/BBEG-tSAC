@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # The Betrayer
 
 The primary antagonist of the tSAC story — a fallen Protector whose betrayal of the covenant set the Inversion in motion.
