@@ -4,99 +4,247 @@ The system for tracking lasting injury and its consequences.
 
 ---
 
-## Overview
+# Overview
 
-The tSAC injury model distinguishes between **Stamina** (current capacity, recoverable) and **Injuries** (lasting conditions that affect capability). This distinction is central to the system's philosophy that consequences are durable.
+The tSAC injury model distinguishes between **Stamina** and **Injury**.
 
-A character can recover Stamina to full and still be meaningfully impaired by an injury they're carrying. This prevents the "full reset between every encounter" problem.
+These represent two fundamentally different aspects of physical harm.
+
+**Stamina** represents a character’s current capacity to continue acting.  
+It reflects exhaustion, pain tolerance, breath, and the ability to remain active under stress.
+
+**Injuries**, by contrast, represent **lasting physical or psychological damage** that cannot be ignored simply because a character has rested.
+
+A character may fully recover their Stamina and still suffer meaningful impairment due to injuries they are carrying.
+
+This distinction exists to prevent the common problem in many game systems where characters fully recover between encounters and the consequences of violence disappear too quickly.
+
+In tSAC, **violence leaves marks**.
 
 ---
 
-## Injury Categories
+# Injury Categories
 
-Injuries are categorized by severity:
+Injuries are categorized by severity. These categories describe both the **medical seriousness** of the condition and its **mechanical impact** on the character.
 
 | Category | Description | Default Recovery |
 |----------|-------------|-----------------|
-| **Minor** | Bruises, cuts, strained muscles | 1–3 days rest |
-| **Moderate** | Broken ribs, deep wounds, partial sprains | 1–3 weeks with treatment |
-| **Severe** | Broken limbs, deep organ damage, significant blood loss | Months; requires skilled treatment |
-| **Critical** | Life-threatening conditions | May require specific care; risk of death |
-| **Permanent** | Conditions that do not fully heal | Ongoing, managed rather than resolved |
+| **Minor** | Bruises, shallow cuts, strained muscles, mild concussions | 1–3 days of rest |
+| **Moderate** | Broken ribs, deep wounds, ligament damage, serious sprains | 1–3 weeks with treatment |
+| **Severe** | Broken limbs, organ trauma, heavy blood loss | Months; requires skilled treatment |
+| **Critical** | Life-threatening conditions requiring immediate care | Immediate treatment required; risk of death |
+| **Permanent** | Injuries that never fully heal | Ongoing condition requiring management |
+
+Severity reflects not only how painful an injury is, but **how much it interferes with normal capability**.
 
 ---
 
-## Acquiring Injuries
+# Acquiring Injuries
 
-Injuries are acquired when:
+Injuries occur when harm exceeds what Stamina alone can represent.
 
-- Stamina falls below 25% from a single combat event
-- A character takes a "significant blow" — a narratively extreme attack regardless of Stamina level
-- Certain environmental events (falls, crushing, drowning)
-- Specific supernatural effects that deal injury directly rather than Stamina damage
+An injury check may occur under several conditions:
 
-### Injury Roll
+• Stamina falls below **25% during a single combat encounter**  
+• A character suffers a **significant blow** — an attack narratively severe enough to cause injury regardless of remaining Stamina  
+• Environmental hazards such as **falls, crushing forces, drowning, or exposure**  
+• Certain **supernatural effects** that inflict injury directly rather than reducing Stamina
 
-When an injury is triggered, roll **2d6 + relevant circumstance modifiers**:
+The Game Guide determines when the situation warrants an injury roll.
+
+---
+
+# Injury Roll
+
+When an injury event occurs, roll:
+
+**2d6 + circumstance modifiers**
+
+The result determines the severity of the injury.
 
 | Roll | Injury Severity |
 |------|----------------|
 | 2–4 | Severe |
 | 5–7 | Moderate |
 | 8–10 | Minor |
-| 11–12 | Glancing — minor at worst |
+| 11–12 | Glancing — minimal injury |
 
-Modifiers: +2 if character has armor appropriate to the attack; −2 if the attack was especially powerful or the character was especially vulnerable.
+Circumstance modifiers reflect how dangerous the situation was.
 
----
+Typical modifiers include:
 
-## Injury Effects
+• **+2** if the character was wearing armor appropriate to the attack  
+• **−2** if the attack was unusually powerful or the character was especially vulnerable  
 
-Each injury has a specific effect on capability:
-
-- **Minor** — Disadvantage on actions that stress the injury
-- **Moderate** — Reduced attribute scores or specific capability loss in the affected area
-- **Severe** — Significant attribute reduction; certain actions impossible until recovery begins
-- **Critical** — Character requires immediate treatment or begins deteriorating; some actions may be impossible entirely
+These modifiers help ensure that the injury outcome reflects the context of the event.
 
 ---
 
-## Treatment and Recovery
+# Injury Effects
 
-Recovery requires:
+Each injury imposes mechanical and narrative consequences.
 
-- **Rest** — Time without significant physical exertion
-- **Treatment** — For Moderate and above, appropriate medical or magical treatment accelerates recovery and prevents complications
-- **Resources** — Healing supplies, access to practitioners, safe conditions
+### Minor Injury
 
-**Without treatment**, Moderate injuries may worsen to Severe over time; Severe injuries risk worsening to Critical.
+Minor injuries represent damage that is painful but manageable.
 
----
+Typical effects:
 
-## Psychological Injuries
+- Disadvantage on actions that stress the injured area
+- Minor discomfort during strenuous activity
 
-The injury model also covers psychological wounds:
-
-- Significant Willpower loss events can leave **psychological injuries** (trauma, phobia, persistent anxiety states)
-- These are categorized the same way (Minor through Permanent) and recover through appropriate care
-- Psychological injuries are real mechanical effects, not flavor — they affect Willpower pools and specific actions
+Examples include bruising, shallow cuts, and mild strains.
 
 ---
 
-## Death
+### Moderate Injury
 
-Death is the outcome of:
+Moderate injuries significantly impair capability.
 
-- A **Critical** injury that goes untreated for too long
-- A **deliberate killing blow** against an incapacitated character
-- Specific catastrophic events (plane destabilization events, Protector-level energy, etc.)
+Possible effects include:
 
-The system does not treat death as the automatic outcome of reaching 0 Stamina — it is a specific condition requiring specific circumstances.
+- Reduced attribute effectiveness for affected actions
+- Difficulty performing physically demanding tasks
+- Limited mobility
+
+Examples include fractured ribs, deep wounds, and ligament damage.
 
 ---
 
-## See Also
+### Severe Injury
+
+Severe injuries represent major bodily damage.
+
+These injuries dramatically affect what a character can do.
+
+Possible effects include:
+
+- Major reduction in physical capability
+- Inability to perform certain actions entirely
+- Severe pain and risk of complications
+
+Examples include broken limbs, major organ trauma, or heavy blood loss.
+
+---
+
+### Critical Injury
+
+Critical injuries are immediately life-threatening.
+
+Without treatment, the character may rapidly deteriorate.
+
+Possible consequences include:
+
+- Immediate incapacitation
+- Loss of consciousness
+- Risk of death if untreated
+
+Critical injuries represent moments where survival becomes uncertain.
+
+---
+
+### Permanent Injury
+
+Some injuries never fully heal.
+
+These may include:
+
+- permanent loss of mobility
+- chronic pain
+- lasting sensory damage
+- psychological scars
+
+Permanent injuries represent enduring consequences of extreme events.
+
+---
+
+# Treatment and Recovery
+
+Recovery from injury depends on three primary factors.
+
+### Rest
+
+The body requires time without intense strain to heal properly.
+
+Continuing to exert oneself while injured can worsen the condition.
+
+---
+
+### Treatment
+
+Moderate injuries and above require appropriate treatment to recover properly.
+
+Treatment may include:
+
+- medical care
+- skilled practitioners
+- surgical intervention
+- specialized equipment
+- magical or metaphysical healing in some contexts
+
+Proper treatment can reduce recovery time and prevent complications.
+
+---
+
+### Environmental Conditions
+
+Safe conditions dramatically affect recovery.
+
+Factors that influence healing include:
+
+- access to shelter
+- availability of food and water
+- sanitation and infection risk
+- environmental stability
+
+Recovering in hostile environments significantly increases the chance of complications.
+
+---
+
+# Psychological Injuries
+
+Not all injuries are physical.
+
+Extreme events may cause **psychological injuries**, particularly when Willpower is heavily strained.
+
+Examples include:
+
+- traumatic memories
+- persistent fear responses
+- anxiety states
+- dissociation
+
+Psychological injuries are categorized using the same severity scale as physical injuries.
+
+They have mechanical effects, typically influencing:
+
+- Willpower pools
+- reactions to stress
+- specific triggering situations
+
+Psychological injuries require appropriate care and time to recover.
+
+---
+
+# Death
+
+Death is not the automatic result of reaching **0 Stamina**.
+
+Instead, death occurs under specific circumstances such as:
+
+• a **Critical injury** that goes untreated  
+• a **deliberate killing blow** against an incapacitated character  
+• catastrophic events beyond normal survivability  
+
+Examples include plane destabilization events or exposure to extreme Protector-level energies.
+
+This approach ensures that death remains a **meaningful narrative outcome** rather than an automatic mechanical threshold.
+
+---
+
+# See Also
 
 - [Stamina and Willpower](stamina_willpower.md)
 - [Combat Resolution](combat_resolution.md)
 - [System Philosophy](philosophy.md)
+```
