@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Story Arc: Inversion of Light and Shadow
 
 The central narrative arc of the **tSAC story universe**.
