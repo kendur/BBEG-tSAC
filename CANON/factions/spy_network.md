@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # The Spy Network
 
 The mortal intelligence network operating in the Living World, focused on Veil-related threats and cosmic politics.
