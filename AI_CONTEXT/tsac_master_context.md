@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # tSAC Master Context
 
 **Use this file as the primary context block when starting an AI session on the tSAC project.**
