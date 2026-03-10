@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Souls
 
 The nature and mechanics of souls in the tSAC universe.
