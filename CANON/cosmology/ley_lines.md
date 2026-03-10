@@ -40,4 +40,4 @@ Effects include:
 - mutated wildlife
 - unstable energy fields
 
-Many human legends originate from these locations.
+Many mortal legends originate from these locations.
