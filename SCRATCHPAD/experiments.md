@@ -19,7 +19,8 @@ Experiments that prove out may be promoted to canon or story files. Experiments 
 
 ## Active Experiments
 
-BRIGHTLOCK, SHADELOCK, SPIRITLOCK
+1. BRIGHTLOCK, SHADELOCK, SPIRITLOCK
+2. update the AI Context to add AI context prompts to each file so that a human can use them for story, thematics, art or media generation, and to better align the users intent
 
 ~~*No active experiments yet.*~~
 
