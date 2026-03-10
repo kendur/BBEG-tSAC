@@ -19,7 +19,9 @@ Experiments that prove out may be promoted to canon or story files. Experiments 
 
 ## Active Experiments
 
-*No active experiments yet.*
+BRIGHTLOCK, SHADELOCK, SPIRITLOCK
+
+~~*No active experiments yet.*~~
 
 ---
 
