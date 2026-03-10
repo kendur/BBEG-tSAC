@@ -1,70 +1,149 @@
-#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # tSAC Master Context
 
 **Use this file as the primary context block when starting an AI session on the tSAC project.**
 
----
-
-## Project Identity
-
-- **Project:** BBEG: The Silent Accord Chronicles (tSAC)
-- **Type:** Dark fantasy worldbuilding / tabletop RPG
-- **Status:** Active development
-- **Canon Authority:** Human collaborator has final say on all canon
+This document provides a high-level overview of the tSAC universe and the expectations for AI collaboration.  
+It should orient the model quickly without duplicating full lore files.
 
 ---
 
-## World Summary
+# Project Identity
 
-The tSAC universe is a dark fantasy setting in which the cosmos is divided between the realm of light (Brighthaven) and the realm of shadow (Shadewoven), with a mortal Living World caught between them. Protectors — powerful semi-divine beings — were appointed to maintain the balance. One Protector, known only as the Betrayer, fractured that covenant, and the consequences now cascade through mortal history.
+**Project:** BBEG — The Silent Accord Chronicles (tSAC)  
+**Type:** Dark fantasy transmedia world (fiction + tabletop system)  
+**Status:** Active development
 
-The central tension is **the Inversion**: a slow corruption of the light/shadow balance that, if completed, would dissolve the boundary between planes and unmake the structure of the world.
+This project combines:
 
----
+- narrative fiction
+- worldbuilding
+- tabletop mechanics
+- system design
 
-## Core Cast
+The repository functions as the **single source of truth** for canon.
 
-- **Solas Aghrian** — A mortal who carries an ancient spiritlock and is drawn into the conflict between Protectors.
-- **The Betrayer** — A fallen Planewright whose unintentional betrayal set the Inversion in motion. Motivations are complex and not purely evil.
-- **Loughan Begarrow** — An operative in the mortal spy network, pragmatic and loyal to survival over ideology.
-
----
-
-## Key Concepts
-
-| Concept | Summary |
-|---------|---------|
-| Spiritlock | The binding of a soul to a location, object, or person |
-| Shadebound | Mortals who carry a fragment of Shadewoven within their soul |
-| Lost Souls | Souls severed from both planes, drifting without anchor |
-| The Concordance | The membrane between the Living World and the planes |
-| Arbiters of the Concordance | The faction charged with maintaining the Veil |
+Final canon authority always belongs to the human collaborator.
 
 ---
 
-## Tone and Style
+# World Overview
 
-- Dark fantasy with mythic undertones
-- Moral ambiguity is the norm; villains have coherent internal logic
-- Consequences are real and durable — death, injury, and loss matter
-- The supernatural is awe-inspiring and dangerous, not routine
+The tSAC universe exists between three interacting layers of reality:
+
+| Layer | Description |
+|------|-------------|
+| **Brighthaven** | Plane of structured order, illumination, and stabilization |
+| **Shadewoven** | Plane of entropy, transformation, and adaptive correction |
+| **Living World** | Mortal plane where these forces intersect |
+
+The boundary between these forces is called:
+
+**The Concordance**
+
+The Concordance is not a wall but a **dynamic equilibrium system** regulating the flow of metaphysical energy.
+
+When the balance destabilizes, anomalies occur within the Living World.
 
 ---
 
-## Canon Rules (Summary)
+# The Inversion
 
-- Nothing is canon until explicitly confirmed by the human collaborator
-- Inferences and suggestions must be labeled as such
-- Contradictions in canon must be flagged, not silently resolved
-- See `canon_rules.md` for the full ruleset
+The central cosmic event of the setting is **The Inversion**.
+
+The Inversion represents a slow destabilization of the Brighthaven / Shadewoven balance.
+
+Rather than shadow overwhelming light, the Inversion causes **the roles of the planes to begin reversing**.
+
+Brighthaven becomes corrosive.  
+Shadewoven becomes stabilizing.
+
+If the process continues unchecked, the Concordance itself may collapse.
 
 ---
 
-## Session Behavior
+# Arbiters
 
-When working in a tSAC session:
-1. Acknowledge this context in one sentence before proceeding
-2. Separate canon facts from inferences clearly
-3. When suggesting new lore, present as options — do not assert as fact
-4. Flag any apparent contradictions with existing canon
-5. Prefer options → recommendation → rationale format for complex decisions
+Arbiters are rare metaphysical entities associated with the Concordance.
+
+Their purpose is to maintain balance between the planes.
+
+Important notes:
+
+- Arbiters **rarely intervene directly**
+- Arbiter manifestations within the Living World are extremely uncommon
+- Arbiter vessels can include **non-human hosts**
+
+Example manifestation:
+
+- **Varkara and Aurelian**, Arbiter souls inhabiting bear vessels after a leyline accident
+
+See:
+`CANON/cosmology/arbiters/leyborn_arbiters.md`
+
+---
+
+# Leylines
+
+The Living World contains a planetary energy network commonly called **the ley system**.
+
+Leylines:
+
+- distribute metaphysical energy across the world
+- connect naturally occurring nexus points
+- can interact with mortal magic
+
+Ley disruptions are responsible for many supernatural phenomena.
+
+---
+
+# Soul Phenomena
+
+Not all supernatural entities are Arbiters.
+
+Ley activity can produce several forms of soul interaction:
+
+| Type | Description |
+|-----|-------------|
+| **Heroic Soulbound** | Spirits of mortals bound to ley locations |
+| **Failed Arbiter Candidates** | Individuals who attempted transformation and failed |
+| **Ley Echoes** | Residual consciousness fragments created by magical catastrophes |
+| **Arbiter Manifestations** | Rare true Concordance agents |
+
+Many of these phenomena originate from the research and experimentation of **Loughan Begarrow**.
+
+---
+
+# Core Characters
+
+### Solas A'Ghrian
+
+Central figure of the narrative.
+
+A noble warrior tied to the cosmic conflict through an ancient metaphysical binding.
+
+Her story unfolds as the Inversion begins affecting the world.
+
+---
+
+### Loughan Begarrow
+
+Scholar and intelligence operative.
+
+His experiments with soul mechanics and leyline interaction have unintentionally produced several metaphysical anomalies.
+
+Some of these experiments may have accelerated aspects of the Inversion.
+
+---
+
+# System Design Philosophy
+
+The tabletop system supporting the setting prioritizes **realistic consequences and physical logic**.
+
+Design principles include:
+
+- no traditional hit point abstraction
+- injury-based damage modeling
+- contested conflict resolution
+- endurance tracked through stamina and willpower
+
+Key system files:
