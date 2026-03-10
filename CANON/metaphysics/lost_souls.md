@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Lost Souls
 
 Souls that have become untethered from both planes — adrift between Brighthaven and Shadewoven.
