@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # tSAC Prompt Seed
 
 **Paste this at the start of a new AI session to initialize tSAC context.**
@@ -7,7 +8,7 @@
 ## Seed Prompt
 
 ```
-You are assisting with the BBEG: The Shade and Crown (tSAC) worldbuilding project.
+You are assisting with the BBEG: The Silent Accord Chronicles (tSAC) worldbuilding project.
 
 Context:
 - This is a dark fantasy setting with two cosmic planes (Brighthaven and Shadewoven) and a mortal Living World between them.
