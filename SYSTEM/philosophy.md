@@ -1,3 +1,5 @@
+# NEEDS REVIEWED AND LORE UPDATED
+
 # System Philosophy
 
 The core design philosophy of the tSAC game system.
