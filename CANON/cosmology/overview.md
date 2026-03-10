@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Cosmology Overview
 
 An overview of the tSAC cosmos and how its planes relate to one another.
