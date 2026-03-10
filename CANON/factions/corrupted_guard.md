@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # The Corrupted Guard
 
 Former members of the Veil Guard who have broken from the organization and now operate with opposing or destabilizing goals.
