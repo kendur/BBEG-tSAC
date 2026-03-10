@@ -1,3 +1,5 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
+#CONSIDER SPIRITLOCK, SHADELOCK, BRIGHTLOCK, 
 # Shadebound
 
 Mortals who carry a fragment of the Shadewoven within their soul.
