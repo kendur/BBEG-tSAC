@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Current Age
 
 The present era of the tSAC story — the Inversion Age.
