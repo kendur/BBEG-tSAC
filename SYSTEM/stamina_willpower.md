@@ -1,3 +1,5 @@
+#NEEDS REVIEWED
+
 # Stamina and Willpower
 
 The two primary resource mechanics of the tSAC system.
