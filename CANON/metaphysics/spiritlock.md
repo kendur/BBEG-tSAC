@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Spiritlock
 
 The binding of a soul to a location, object, or person — preventing its natural migration.
