@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Brighthaven
 
 The realm of light, structure, and ordered existence.
