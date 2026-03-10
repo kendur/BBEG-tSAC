@@ -1,3 +1,4 @@
+#THIS FILE NEEDS EXPANDED
 # Arbiters
 
 Arbiters are individuals infused with both Brighthaven and Shadewoven energies.
