@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # The Veil Guard
 
 The faction charged with maintaining the Veil and regulating the boundary between the Living World and the cosmic planes.
