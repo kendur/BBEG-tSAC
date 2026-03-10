@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Cosmic History
 
 The history of the tSAC cosmos from its origins through the age before the Betrayal.
