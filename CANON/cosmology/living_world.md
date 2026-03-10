@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # The Living World
 
 The mortal plane — the active interface between Brighthaven and Shadewoven.
