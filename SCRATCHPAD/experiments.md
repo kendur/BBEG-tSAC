@@ -1,4 +1,4 @@
-# Experiments
+# Incomplete Idea Board
 
 Experimental concepts, alternative framings, and "what if" explorations. Nothing here is canon.
 
