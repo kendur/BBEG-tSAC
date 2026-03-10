@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Leyborn Arbiter Manifestation
 
 ## Overview
