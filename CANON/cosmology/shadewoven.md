@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Shadewoven
 
 The realm of shadow, memory, and dissolution.
