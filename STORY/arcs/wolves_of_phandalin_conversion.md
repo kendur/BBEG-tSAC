@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Story Arc: Wolves of Phandalin Conversion
 
 Notes on adapting the "Lost Mine of Phandelver" / "Wolves of Phandalin" scenario into the tSAC setting.
