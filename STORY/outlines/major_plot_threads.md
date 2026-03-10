@@ -1,3 +1,4 @@
+#THIS FILE CONTAINS OLD LORE AND MECHANICS. IT WILL BE REPLACED
 # Major Plot Threads
 
 Active and planned major plot threads in the tSAC story.
